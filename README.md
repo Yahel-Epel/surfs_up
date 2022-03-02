@@ -10,14 +10,15 @@ We did it using Python, Pandas functions and methods, and SQLAlchemy, you’ll
 - In December the minimum temperature is 9 degrees lower than June, 56 vs 64.
 - The maximum temperature in June is 85 and in December is 83. 
 
-![June_Temps.png](C:\Users\Tamir\Desktop\Berkeley\Module-9\surfs_up\Resources\June_Temps.png)
-![December_Temps.png](C:\Users\Tamir\Desktop\Berkeley\Module-9\surfs_up\Resources\December_Temps.png)
+![June_Temps.png](Resources/June_Temps.png)
+![December_Temps.png](Resources/December_Temps.png)
 
 ## Summary
 1.  When we look at the precipitation in December and June we can see the maximum in December is 6.42 and in June is 4.43. see the tables below
-![June_Precipitation.png](C:\Users\Tamir\Desktop\Berkeley\Module-9\surfs_up\Resources\June_Precipitation.png)
-![December_Precipitation.png](C:\Users\Tamir\Desktop\Berkeley\Module-9\surfs_up\Resources\December_Precipitation.png)
+
+![June_Precipitation.png](Resources/June_Precipitation.png)
+![December_Precipitation.png](Resources/December_Precipitation.png)
 
 2. In order to understand the temperature throughout the year we analyzed the station with the highest number of temperature observations from 24-Aug-2016 to 23-Aug-2017 and see that most of the year the temperature is between 70 to 80. 
-![station_temperature.png](C:\Users\Tamir\Desktop\Berkeley\Module-9\surfs_up\Resources\station_temperature.png)
+![station_temperature.png](Resources/station_temperature.png)
 
