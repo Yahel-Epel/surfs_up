@@ -19,6 +19,7 @@ We did it using Python, Pandas functions and methods, and SQLAlchemy, you’ll
 ![June_Precipitation.png](Resources/June_Precipitation.png)
 ![December_Precipitation.png](Resources/December_Precipitation.png)
 
-2. In order to understand the temperature throughout the year we analyzed the station with the highest number of temperature observations from 24-Aug-2016 to 23-Aug-2017 and see that most of the year the temperature is between 70 to 80. 
+2. In order to understand the temperature throughout the year we analyzed the station with the highest number of temperature observations from 24-Aug-2016 to 23-Aug-2017 and see that most of the year the temperature is between 70 to 80.
+ 
 ![station_temperature.png](Resources/station_temperature.png)
 
